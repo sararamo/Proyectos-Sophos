@@ -1,0 +1,982 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" lang="es" class="promo-banner-show cart-show cart-has-products checkout-show"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#"><meta name="language" content="es-CO" />
+<meta name="country" content="COL" />
+<meta name="currency" content="$" />
+<meta charset="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" /><meta name="theme-color" content="#000000" /><meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="description" content="" />
+<meta name="Abstract" content="Reloj Analogo Otun Hombre" />
+<meta name="author" content="Totto" />
+<meta name="copyright" content="Totto" />
+<meta name="vtex-version" content="1.4.1198.1946" />
+<meta http-equiv="pragma" content="no-cache" />
+<link href="/arquivos/favicon.ico?v=636507744052800000" rel="shortcut icon" type="image/png" /><link href="/arquivos/favicon.ico?v=636507744052800000" rel="shortcut icon" type="image/ico" /><link href="/arquivos/favicon.ico?v=636507744052800000" rel="shortcut icon" type="image/x-icon" /><style>
+    .myorders-list .order-details .order-status-info .request-cancel,
+    .payment-value .payment-installmetns,
+    ._float-checkout{ display:none !important; }
+    
+    /*.companyNavigation{ display:none !important; }
+    body.company-story .exploreBrand{ margin-top:-60px;}*/
+    
+    @media (min-width: 1024px){
+    	.ProductShowcase{margin-left:85px !important;}
+    }
+    
+    .product-modal.modal-dialog .modal-content .modal-header .modal-title {
+    font-size: 1.5rem !important;
+}
+
+.product-modal-info .product-modal-price .price-new {
+    font-size: 2rem;
+}
+
+
+
+.product-modal-info .product-modal-size-wrapper .title {
+    font-size: 1.2rem;
+}
+
+.product-modal-info .product-modal-size .size-wrapper .size {
+    width: 60px;
+}
+
+
+
+
+    @media screen and (max-width: 767px) {
+
+.product-modal.modal-dialog .modal-content .modal-header .modal-title {
+    font-size: 0.9em !important;
+    padding-bottom: 10px;
+    line-height: 1;
+}
+
+
+.product-modal-thumbnails img {
+    width: 70px !important;;
+}
+
+.product-modal-image&amp;gt;img {
+    max-height: 185px !important;;
+}
+
+.product-modal-info .product-modal-size .size-wrapper .size {
+    width: 58px;
+}
+
+.product-modal .button-wrapper {
+    width:96% !important;
+    margin: 10px 0px !important;
+    text-align: center;
+    background: #CCA;
+    padding: 10px;
+}
+
+.product-modal-info .product-modal-color-wrapper {
+    width: 50%;
+    float: left;
+}
+
+.product-modal-info .product-modal-summary a {
+    margin: 0 auto;
+    line-height: 1;
+    margin: 10px auto;
+}
+.product-modal-info .product-modal-summary {
+    margin-top: 20px;
+}
+
+.product-modal-info .product-modal-size .size-wrapper .size.selected {
+    border-color: #000;
+    color: #000;
+    background: #FFF;
+    border: none;
+    padding: 0px 3px;
+}
+.product-modal-info .product-modal-summary a {
+    margin: 10px auto;
+}
+}
+</style><style type="text/css"></style><title>Reloj Analogo Otun Hombre - tottoco</title><script async="true" type="text/javascript" src="https://sslwidget.criteo.com/event?a=12345&amp;v=5.1.2&amp;p0=e%3Dce%26m%3D%255B%255D&amp;p1=e%3Dexd%26site_type%3Dd&amp;p2=e%3Dvp%26tms%3Dgtm-vtex%26p%3D2003191&amp;p3=e%3Ddis&amp;adce=1&amp;lwid=fd9869bf-d7b3-4c52-8ddb-142a7df07039&amp;tld=totto.com&amp;dtycbr=32268" data-owner="criteo-tag"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script src="https://connect.facebook.net/signals/config/231574710982234?v=2.8.47&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/389438597925084?v=2.8.47&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-TMGHPCS&amp;t=gtm2&amp;cid=1242570610.1554990582"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" charset="utf-8" src="https://v2.zopim.com/?2NDWKFp0ts0quTLnDThMwqlraH4CRpl3" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PKJD3R9"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" language="javascript">var jscheckoutUrl = 'https://co.totto.com/checkout/#/cart';var jscheckoutAddUrl = 'https://co.totto.com/checkout/cart/add';var jscheckoutGiftListId = '';var jsnomeSite = 'tottoco';var jsnomeLoja = 'tottoco';var jssalesChannel = '1';var defaultStoreCurrency = '$';var localeInfo = {"CountryCode":"COL","CultureCode":"es-CO","CurrencyLocale":{"RegionDisplayName":"Colombia","RegionName":"CO","RegionNativeName":"Colombia","TwoLetterIsoRegionName":"CO","CurrencyEnglishName":"Colombian Peso","CurrencyNativeName":"Peso","CurrencySymbol":"$","ISOCurrencySymbol":"COP","Locale":9226,"Format":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","CurrencyGroupSeparator":".","CurrencyGroupSize":3,"StartsWithCurrencySymbol":true},"FlagUrl":"http://www.geonames.org/flags/x/co.gif"}};</script> 
+<script type="text/javascript" language="javascript">vtxctx = {"skus":"10178;10179","searchTerm":"","categoryId":"22","categoryName":"Relojes","departmentyId":"3","departmentName":"Accesorios","isOrder":"0","isCheck":"0","isCart":"0","actionType":"","actionValue":"","login":null,"url":"co.totto.com","transurl":"co.totto.com"};</script> 
+<script language="javascript" src="https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.ajax.wait.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.common.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://unpkg.com/@vtex/render-extension-loader@0.1.6/lib/render-extension-loader.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/front-i18n/0.7.2/vtex-i18n.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/front-utils/3.0.8/underscore-extensions.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/currency-format.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/catalog-sdk.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/rc/rc.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.tagmanager.helper.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-ui/1.12.4/scripts/vtex-events-all.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-ui/1.12.4/scripts/vtex-analytics.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/vtex.js/2.10.1/vtex.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/vtex-id-ui/3.15.33/vtexid-jquery.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-minicart-with-template.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-price-with-template.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-sku-selector-with-template.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-buy-button.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-notify-me-with-template.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-template-as-modal.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<link href="/arquivos/bootstrap-reset.min.css?v=636386550080570000" rel="stylesheet" /><link href="/arquivos/fonts.css?v=081117" rel="stylesheet" /><link href="/arquivos/slick.css?v=636386550765630000" rel="stylesheet" /><link href="/arquivos/header-footer-extras.tplv3a.css?v=3" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/arquivos/callmebackb.css?v=040319_1731" /><link href="/arquivos/flags.css?v=20190117_2249" rel="stylesheet" type="text/css" /><link href="/arquivos/whatsapp.css?v=636748557904300000" rel="stylesheet" /><link href="/arquivos/banner-rotativo.css?v=5" rel="stylesheet" /><link href="/arquivos/selectric.css?v=636386550745700000" rel="stylesheet" /><link href="/arquivos/product.tplv4.css?v=040319_1730" rel="stylesheet" /><link href="/arquivos/sizechart.css?v=636447131370900000" rel="stylesheet" /><link href="/arquivos/pdp-v2.css?v=1" rel="stylesheet" /><script language="javascript">var ___scriptPathTransac = '';</script><script language="javascript">var ___scriptPath = '';</script><link rel="canonical" href="https://co.totto.com/reloj-analogo-otun-hombre/p" /><script>var skuJson_0 = {"productId":2003191,"name":"Reloj Analogo Otun Hombre","salesChannel":"1","available":true,"displayMode":"especificacao","dimensions":["Color Ref."],"dimensionsInputType":{"Color Ref.":"Radio"},"dimensionsMap":{"Color Ref.":["N01","T04"]},"skus":[{"sku":10178,"skuname":"Reloj Analogo Otun Hombre","dimensions":{"Color Ref.":"N01"},"available":true,"availablequantity":6,"cacheVersionUsedToCallCheckout":"37f8ef257f882c14e01d9c90d116fea8_","listPriceFormated":"$0,00","listPrice":0,"taxFormated":"$0,00","taxAsInt":0,"bestPriceFormated":"$159.900,00","bestPrice":15990000,"installments":48,"installmentsValue":333200,"installmentsInsterestRate":0,"image":"https://tottoco.vteximg.com.br/arquivos/ids/187722-1000-1000/OTUN-181-N01_C.png?v=636597389658500000","sellerId":"1","seller":"Totto Colombia","measures":{"cubicweight":0.0276,"height":26.5000,"length":5.0000,"weight":47.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0},{"sku":10179,"skuname":"Reloj Analogo Otun Hombre","dimensions":{"Color Ref.":"T04"},"available":true,"availablequantity":7,"cacheVersionUsedToCallCheckout":"37f8ef257f882c14e01d9c90d116fea8_","listPriceFormated":"$0,00","listPrice":0,"taxFormated":"$0,00","taxAsInt":0,"bestPriceFormated":"$159.900,00","bestPrice":15990000,"installments":48,"installmentsValue":333200,"installmentsInsterestRate":0,"image":"https://tottoco.vteximg.com.br/arquivos/ids/187724-1000-1000/OTUN-181-T04_C.png?v=636597389685500000","sellerId":"1","seller":"Totto Colombia","measures":{"cubicweight":0.0276,"height":26.5000,"length":5.0000,"weight":47.0000,"width":1.0000},"unitMultiplier":1.0000,"rewardValue":0}]};CATALOG_SDK.setProductWithVariationsCache(skuJson_0.productId, skuJson_0); var skuJson = skuJson_0;</script><script async="" src="https://static.hotjar.com/c/hotjar-737736.js?sv=6"></script><style media="print" class="jx_ui_StyleSheet" __jx__id="___$_2" type="text/css">.zopim { display: none !important }</style><script async="" src="https://script.hotjar.com/modules.87d78982b257eb784657.js"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/986711534/?random=1554990594257&amp;cv=9&amp;fst=1554990594257&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=4&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;sendb=1&amp;data=ecomm_prodid%3D2003191%3Becomm_pagetype%3DProduct%3Becomm_totalvalue%3D159900&amp;frm=0&amp;url=https%3A%2F%2Fco.totto.com%2Freloj-analogo-otun-hombre%2Fp&amp;ref=https%3A%2F%2Fco.totto.com%2FReloj%2520mujer&amp;tiba=Reloj%20Analogo%20Otun%20Hombre%20-%20tottoco&amp;rfmt=3&amp;fmt=4"></script><style class="skuColors">.color-N01:before {background: url(/arquivos/N01.jpg) no-repeat center center !important; }
+.color-N01:after{ content:"Negro"; }
+.color-T04:before {background: url(/arquivos/T04.jpg) no-repeat center center !important; }
+.color-T04:after{ content:"Terreo"; }
+</style><script type="application/ld+json">{"@context":"https://schema.org","@id":"https://co.totto.com/reloj-analogo-otun-hombre/p","mainEntityOfPage":"https://co.totto.com/reloj-analogo-otun-hombre/p","@type":"Product","name":"Reloj Analogo Otun Hombre","aggregateRating":{"ratingValue":"3.5","reviewCount":"2"}}</script></head>
+  <body id="produto" class="produto produto-v2 notouch"><div id="ajaxBusy" class="load loading" style="display: none;"><p>Aguarde...</p></div><div class="zopim" __jx__id="___$_11 ___$_11" data-test-id="ChatWidgetButton" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; border: 0px; background: transparent; overflow: hidden; position: fixed; z-index: 16000002; width: 194px; height: 30px; right: 10px; bottom: 0px;"><iframe frameborder="0" style="background-color: transparent; vertical-align: text-bottom; position: relative; width: 100%; height: 100%; min-width: 100%; min-height: 100%; max-width: 100%; max-height: 100%; margin: 0px; overflow: hidden; display: block;" src="about:blank" data-test-id="ChatWidgetButton-iframe" title="Zendesk Chat widget button" allowtransparency="true" id="iFrameResizer0" scrolling="no"></iframe></div><div class="zopim" __jx__id="___$_4 ___$_4" data-test-id="ChatWidgetWindow" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; border: 0px; background: transparent; overflow: hidden; position: fixed; z-index: 16000001; right: 10px; bottom: 0px; border-top-left-radius: 5px; border-top-right-radius: 5px; display: none; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 3px 2px;"><iframe frameborder="0" style="background-color: transparent; vertical-align: text-bottom; position: relative; width: 100%; height: 100%; min-width: 100%; min-height: 100%; max-width: 100%; max-height: 100%; margin: 0px; overflow: hidden; display: block;" src="about:blank" data-test-id="ChatWidgetWindow-iframe" title="Zendesk Chat widget window" allowtransparency="true" id="iFrameResizer1" scrolling="no"></iframe></div>
+<!-- Start - WebAnalyticsViewPart -->
+<script> var defaultUtmFromFolder = '';</script>
+<!-- CommerceContext.Current.VirtualFolder.Name: @Produto@ -->
+
+<script>
+vtex.events.addData({"pageCategory":"Product","pageDepartment":"Accesorios","pageUrl":"http://co.totto.com/reloj-analogo-otun-hombre/p","pageTitle":"Reloj Analogo Otun Hombre - tottoco","skuStockOutFromShelf":[],"skuStockOutFromProductDetail":[],"shelfProductIds":[],"accountName":"tottoco","pageFacets":[],"productId":"2003191","productReferenceId":"AC58IND123-1810Z-T04","productEans":["7704875767213","7704875767220"],"skuStocks":{"10178":6,"10179":7},"productName":"Reloj Analogo Otun Hombre","productBrandId":2000002,"productBrandName":"181","productDepartmentId":3,"productDepartmentName":"Accesorios","productCategoryId":22,"productCategoryName":"Relojes","productListPriceFrom":"159900","productListPriceTo":"159900","productPriceFrom":"159900","productPriceTo":"159900","sellerId":"1","sellerIds":"1"});
+</script>
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+                            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,'script','dataLayer','GTM-PKJD3R9');
+</script>
+
+<script>
+var helper = new vtexTagManagerHelper('productView'); helper.init();
+</script>
+
+<!-- End - WebAnalyticsViewPart -->
+<div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer">
+<!-- CallCenter -->
+</div><section class="SidePanel"><!-- menu mobile --><div class="MenuMobi" style="height: 613px;"><div class="_mmenu-close"><a class="__mmenu-close"><span class="__btn"><span></span><span></span><span></span></span><span class="__text">Menu</span></a></div><div class="_mmenu-selection"><div class="_mmenu-options"></div></div><div class="_mmenu"><ul>
+  <!-- Totto Loco-->
+   <!--<li><a href="/hot-sale" style="color:#d13336;">HotSale</a>
+   </li>-->
+   <!-- Totto Loco-->
+  <li>
+    <a class="__hasChildren">Morrales</a>
+    <ul>
+    <li><a href="/morrales/hombre">Hombre</a></li>
+    <li><a href="/morrales/mujer">Mujer</a></li>
+    <li><a href="/morrales/nino">Niño</a></li>
+    <li><a href="/morrales/nina">Niña</a></li>
+    <li><a href="/regreso-a-clases/combos">Combos Escolares</a></li>
+    </ul>
+  </li>
+  <li>
+    <a class="__hasChildren">Bolsos</a>
+    <ul>
+      <li><a href="/bolsos/bolsos-manos-libres">Bolsos Manos Libres</a></li>
+      <li><a href="/bolsos/maletines-ejecutivos">Maletines Ejecutivos</a></li>
+      <li><a href="/bolsos/carteras">Carteras</a></li>
+      <li><a href="/bolsos/maletas-deportivas">Maletas Deportivas</a></li>
+    </ul>
+  </li>
+  <li>
+    <a class="__hasChildren">Accesorios</a>
+    <ul>
+      <li><a href="/accesorios/billeteras">Billeteras</a></li>
+      <li><a href="/accesorios/botilitos">Botilitos</a></li>
+      <li><a href="/accesorios/canguros">Canguros</a></li>
+      <li><a href="/accesorios/cartucheras">Cartucheras</a></li>
+      <li><a href="/accesorios/cinturones">Cinturones</a></li>
+      <!--<li><a href="/accesorios/fragancias">Fragancias</a></li>-->
+      <li><a href="/accesorios/gorras">Gorras</a></li>
+      <li><a href="/accesorios/gafas-de-sol">Gafas de sol</a></li>
+      <li><a href="/accesorios/llaveros">Llaveros</a></li>
+      <li><a href="/accesorios/Loncheras">Loncheras</a></li>
+      <li><a href="/accesorios/Monederos">Monederos</a></li>
+      <li><a href="/accesorios/relojes">Relojes</a></li>
+      <li><a href="/accesorios/sombrillas">Sombrillas</a></li>
+      <li><a href="/accesorios/tulas">Tulas</a></li>
+    </ul>
+  </li>
+  <li>
+    <a class="__hasChildren">Ropa</a>
+    <ul>
+        <li>
+          <a class="__hasChildren">HOMBRE</a>
+          <ul>
+            <li><a href="/ropa/hombre/chaquetas">Chaquetas</a></li>
+            <li><a href="/ropa/hombre/buzos">Buzos</a></li>
+            <li><a href="/ropa/hombre/camisas">Camisas</a></li>
+            <li><a href="/ropa/hombre/camisetas">Camisetas</a></li>
+            <li><a href="/ropa/hombre/chalecos">Chalecos</a></li>
+            <!--<li><a href="/ropa/hombre/guantes">Guantes</a></li>-->
+            <!--<li><a href="/ropa/hombre/bufandas">Bufandas</a></li>-->
+            <li><a href="/ropa/hombre/jeans">Jeans</a></li>
+            <li><a href="/ropa/hombre/pantalones">Pantalones</a></li>
+            <li><a href="/ropa/hombre/pantalonetas-y-bermudas">Bermudas</a></li>
+            <!--<li><a href="/ropa/hombre/zapatos">Zapatos</a></li>-->
+          </ul>
+         </li>
+
+        <li>
+          <a class="__hasChildren">MUJER</a>
+          <ul>
+            <li><a href="/ropa/mujer/chaquetas">Chaquetas</a></li>
+            <li><a href="/ropa/mujer/buzos">Buzos</a></li>
+            <li><a href="/ropa/mujer/camisas">Camisas</a></li>
+            <li><a href="/ropa/mujer/camisetas">Camisetas</a></li>
+            <li><a href="/ropa/mujer/chalecos">Chalecos</a></li>
+            <!--<li><a href="/ropa/mujer/guantes">Guantes</a></li>-->
+            <li><a href="/ropa/mujer/bufandas">Bufandas</a></li>
+            <li><a href="/ropa/mujer/jeans">Jeans</a></li>
+            <li><a href="/ropa/mujer/pantalones">Pantalones</a></li>
+            <li><a href="/ropa/mujer/shorts">Shorts</a></li>
+            <!--<li><a href="/ropa/mujer/zapatos">Zapatos</a></li>-->
+          </ul>
+        </li>
+
+        <li>
+          <a class="__hasChildren">NIÑO</a>
+          <ul>
+            <li><a href="/ropa/nino/chaquetas">Chaquetas</a></li>
+            <li><a href="/ropa/nino/buzos">Buzos</a></li>
+            <li><a href="/ropa/nino/camisas">Camisas</a></li>
+            <li><a href="/ropa/nino/camisetas">Camisetas</a></li>
+            <li><a href="/ropa/nino/chalecos">Chalecos</a></li>
+            <!--<li><a href="/ropa/nino/guantes">Guantes</a></li>-->
+            <!--<li><a href="/ropa/nino/bufandas">Bufandas</a></li>-->
+            <li><a href="/ropa/nino/jeans">Jeans</a></li>
+            <li><a href="/ropa/nino/pantalones">Pantalones</a></li>
+            <li><a href="/ropa/nino/pantalonetas-y-bermudas">Pantalonetas</a></li>
+            <!--<li><a href="/ropa/nino/zapatos">Zapatos</a></li>-->
+          </ul>
+        </li>
+
+        <li>
+          <a class="__hasChildren">NIÑA</a>
+          <ul>
+            <li><a href="/ropa/nina/chaquetas">Chaquetas</a></li>
+            <li><a href="/ropa/nina/buzos">Buzos</a></li>
+            <li><a href="/ropa/nina/camisas">Camisas</a></li>
+            <li><a href="/ropa/nina/camisetas">Camisetas</a></li>
+            <li><a href="/ropa/nina/chalecos">Chalecos</a></li>
+            <!--<li><a href="/ropa/nina/guantes">Guantes</a></li>-->
+            <!--<li><a href="/ropa/nina/bufandas">Bufandas</a></li>-->
+            <li><a href="/ropa/nina/jeans">Jeans</a></li>
+            <li><a href="/ropa/nina/pantalones">Pantalones</a></li>
+            <!--<li><a href="/ropa/nina/shorts">Shorts</a></li>-->
+            <!--<li><a href="/ropa/nina/zapatos">Zapatos</a></li>-->
+          </ul>
+        </li>
+    </ul>
+  </li>
+  <li>
+    <a class="__hasChildren">Viaje</a>
+    <ul>
+      <li><a href="/viaje/maletas-grandes">Maletas Grandes</a></li>
+      <li><a href="/viaje/maletas-medianas">Maletas Medianas</a></li>
+      <li><a href="/viaje/maletas-pequeñas">Maletas Pequeñas</a></li>
+      <li><a href="/viaje/outdoor">Morrales Outdoor</a></li>
+      <li><a href="/viaje/maletas-deportivas">Maletas Deportivas</a></li>
+      <li><a href="/viaje/neceser-viajero">Neceser Viajero</a></li>
+      <li><a href="/viaje/almohadas">Almohadas</a></li>
+      <li><a href="/viaje/candados">Candados</a></li>
+      <li><a href="/viaje/portadocumentos">Portadocumentos</a></li>
+      <li><a href="/viaje/marcadores-de-maleta">Marcadores De Maleta</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.tottolab.com/" id="labClickTotto">Personaliza tu Morral</a></li>
+  <li><a href="http://tottofactory.com/wayuu/">Innovación</a></li>
+  <!-- <li><a href="/innovacion">Innovación</a></li> -->
+  <!-- <li>
+    <a style="color:#a1072c;">Ofertas</a>
+    <ul>
+      <li><a href="/oferta/descuentos-en-morrales">Morrales</a></li>
+      <li><a href="/oferta/descuentos-en-accesorios">Accesorios</a></li>
+      <li><a href="/oferta/descuentos-en-ropa-para-adultos">Ropa Adultos</a></li>
+      <li><a href="/oferta/descuentos-en-ropa-nina">Ropa Niña</a></li>
+      <li><a href="/oferta/descuentos-en-ropa-nino">Ropa Niño</a></li>
+      <li><a href="/ofertas">Ver todo</a></li>
+    </ul>
+  </li>-->
+    
+     <!-- blog-->
+     <li><a href="http://www.tottodilotodo.com/">Blog</a></li>
+     <!-- blog-->
+</ul><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome menuMobile não foi renderizado por nao ser um XDocument válido, erro: - Object reference not set to an instance of an object.--></div></div><!-- menu mobile:end --><div class="Search SearchSidePanel"><fieldset class="busca"><label for="search" class="__noselect __labelasplaceholder">Buscar</label><input id="search" name="search" class="__search_field __search_field1" type="text" autocomplete="off" autocapitalize="off" /><button class="__btn __search-btn-sp act" autocomplete="off"></button></fieldset><div class="_search_results _results1"><div class="__search_msg">Busca por productos, Sku o palabra clave.<br />Enter para buscar.</div></div></div><div class="UtilitySidePanel"><a class="__orders icon icon-orders-sp" href="/_secure/account"><span class="underscore-slide">Mis pedidos</span></a><!--<a class="__livechat icon icon-livechat"><span class="underscore-slide">Live Chat</span></a>--><a class="__livechat icon icon-mobile">Venta teléfonica: Bogotá 654 0870 - Móvil 350 555 16 41</a></div><div class="NewsletterSidePanel"><!-- newsletter --><div class="_newsletter _newsletter1"><div class="_newsletterform"><div class="_emailbox"><label for="email" class="__labelasplaceholder __noselect">Suscripción a newsletter</label><input name="email" type="text" value="" autocomplete="off" autocapitalize="off" /></div><button class="__submit" autocomplete="off">Registrar</button></div><div class="_successful _newsmsg"><p>Gracias por suscríbirte, pronto recibiras noticias nuestras.</p><button class="__back" autocomplete="off">&lt;</button></div><div class="_error _newsmsg"><p>Error! The server could not save your email. Please, try again.</p><button class="__back" autocomplete="off">&lt;</button></div><div class="_notifications __tomato"><span class="__name-error">Please enter your name.</span><span class="__email-error">Please enter a valid email address.</span></div></div><!-- newsletter:end --></div><!-- .country-selector --><div class="country-selector">
+            <a class="selected-country">Colombia</a>
+            <ul class="country-list">
+              <li>
+                <span class="continent">Norteamérica</span>
+                <ul>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/puerto-rico" class="puer lfn">Puerto Rico</a></li> -->
+                  <li><a target="_blank" href="http://us.totto.com/" class="usa ecomm">Estados Unidos</a></li>
+                </ul>
+              </li>
+              <li>
+                <span class="continent">Centroamérica</span>
+                <ul>
+                  <li><a target="_blank" href="https://mx.totto.com/" class="mex ecomm">México</a></li>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/aruba" class="aru lfn">Aruba</a></li> -->
+                  <li><a target="_blank" href="https://gt.totto.com" class="gua ecomm">Guatemala</a></li>
+                  <li><a target="_blank" href="https://cr.totto.com" class="cost  ecomm">Costa Rica</a></li>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/curacao" class="cur lfn">Curacao</a></li> -->
+                  <!-- <li><a target="_blank" href="http://www.totto.com/honduras" class="hon lfn">Honduras</a></li> -->
+                  <li><a target="_blank" href="https://sv.totto.com/" class="sal ecomm">Salvador</a></li>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/panama" class="pan lfn">Panamá</a></li> -->
+                  <!-- <li><a target="_blank" href="http://www.totto.com/nicaragua" class="nic lfn">Nicaragua</a></li> -->
+                  <!-- <li><a target="_blank" href="http://www.totto.com/republica-dominicana" class="rep lfn">R.Dominicana</a></li> -->
+                </ul>
+              </li>
+              <li>
+                <span class="continent">Suramérica</span>
+                <ul>
+                  <!--<li><a target="_blank" href="http://www.totto.com" class="col ecomm">Colombia</a></li>-->
+                 <li><a target="_blank" href="https://bo.totto.com/" class="ecu ecomm">Bolivia</a></li>
+                  <li><a target="_blank" href="https://www.totto.cl" class="chi ecomm">Chile</a></li>
+                  <li><a target="_blank" href="https://ec.totto.com" class="ecu ecomm">Ecuador</a></li>
+                  <li><a target="_blank" href="https://pe.totto.com" class="per ecomm">Perú</a></li>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/paraguay" class="par lfn">Paraguay</a></li> -->
+                  <!-- <li><a target="_blank" href="http://www.totto.com/venezuela" class="ven lfn">Venezuela</a></li> -->
+                  <!-- <li><a target="_blank" href="http://www.totto.com/bolivia" class="bol lfn">Bolivia</a></li> -->
+                </ul>
+              </li>
+              <li>
+                <span class="continent">Europa</span>
+                <ul>
+                  <li><a target="_blank" href="https://www.totto.uk.com/" class="uk ecomm">Reino Unido</a></li>
+                  <li><a target="_blank" href="https://www.totto.es" class="esp ecomm">España</a></li>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/portugal" class="por lfn">Portugal</a></li> -->
+                </ul>
+              </li>
+            </ul>
+        </div><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome menupaises não foi renderizado por nao ser um XDocument válido, erro: - Object reference not set to an instance of an object.--><!-- .country-selector:end --><div class="LinksSidePanel"><div>
+        Síguenos
+        <div class="_followus _followus-side"><a href="https://www.facebook.com/totto.brand/" target="_blank" class="__facebook"></a><a href="https://twitter.com/totto_brand" target="_blank" class="__twitter"></a><a href="https://www.instagram.com/tottobrand/" target="_blank" class="__instagram"></a><a href="https://www.youtube.com/user/TOTTOoficial" target="_blank" class="__youtube"></a></div></div><a href="https://ventascorporativas.totto.com"><span class="underscore-slide">Ventas Corporativas</span></a><a href="/quienes-somos"><span class="underscore-slide">Quienes somos</span></a><a href="/store-locator"><span class="underscore-slide">Encuentra tu tienda</span></a><a href="/contactanos"><span class="underscore-slide">FAQ</span></a></div><div class="PoweredBySidePanel"><span>Powered by</span><img alt="Powered by Vtex" src="/arquivos/vtex-logo-2017.png?v=636513585126700000" style="width: 65px;" /></div></section><!-- Main Wrapper --><div class="_main-wrapper"><header><section class="Location clearfix"><div class="TopBar"><div class="TopBarLeft"><!--locationMenu--><div class="country-selector">
+            <a class="selected-country">Colombia</a>
+            <ul class="country-list">
+              <li>
+                <span class="continent">Norteamérica</span>
+                <ul>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/puerto-rico" class="puer lfn">Puerto Rico</a></li> -->
+                  <li><a target="_blank" href="http://us.totto.com/" class="usa ecomm">Estados Unidos</a></li>
+                </ul>
+              </li>
+              <li>
+                <span class="continent">Centroamérica</span>
+                <ul>
+                  <li><a target="_blank" href="https://mx.totto.com/" class="mex ecomm">México</a></li>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/aruba" class="aru lfn">Aruba</a></li> -->
+                  <li><a target="_blank" href="https://gt.totto.com" class="gua ecomm">Guatemala</a></li>
+                  <li><a target="_blank" href="https://cr.totto.com" class="cost  ecomm">Costa Rica</a></li>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/curacao" class="cur lfn">Curacao</a></li> -->
+                  <!-- <li><a target="_blank" href="http://www.totto.com/honduras" class="hon lfn">Honduras</a></li> -->
+                  <li><a target="_blank" href="https://sv.totto.com/" class="sal ecomm">Salvador</a></li>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/panama" class="pan lfn">Panamá</a></li> -->
+                  <!-- <li><a target="_blank" href="http://www.totto.com/nicaragua" class="nic lfn">Nicaragua</a></li> -->
+                  <!-- <li><a target="_blank" href="http://www.totto.com/republica-dominicana" class="rep lfn">R.Dominicana</a></li> -->
+                </ul>
+              </li>
+              <li>
+                <span class="continent">Suramérica</span>
+                <ul>
+                  <!--<li><a target="_blank" href="http://www.totto.com" class="col ecomm">Colombia</a></li>-->
+                 <li><a target="_blank" href="https://bo.totto.com/" class="ecu ecomm">Bolivia</a></li>
+                  <li><a target="_blank" href="https://www.totto.cl" class="chi ecomm">Chile</a></li>
+                  <li><a target="_blank" href="https://ec.totto.com" class="ecu ecomm">Ecuador</a></li>
+                  <li><a target="_blank" href="https://pe.totto.com" class="per ecomm">Perú</a></li>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/paraguay" class="par lfn">Paraguay</a></li> -->
+                  <!-- <li><a target="_blank" href="http://www.totto.com/venezuela" class="ven lfn">Venezuela</a></li> -->
+                  <!-- <li><a target="_blank" href="http://www.totto.com/bolivia" class="bol lfn">Bolivia</a></li> -->
+                </ul>
+              </li>
+              <li>
+                <span class="continent">Europa</span>
+                <ul>
+                  <li><a target="_blank" href="https://www.totto.uk.com/" class="uk ecomm">Reino Unido</a></li>
+                  <li><a target="_blank" href="https://www.totto.es" class="esp ecomm">España</a></li>
+                  <!-- <li><a target="_blank" href="http://www.totto.com/portugal" class="por lfn">Portugal</a></li> -->
+                </ul>
+              </li>
+            </ul>
+        </div><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome menupaises não foi renderizado por nao ser um XDocument válido, erro: - Object reference not set to an instance of an object.--><!--locationMenu--></div><div class="TopLinks TopBarRight"><ul><li><a href="https://ventascorporativas.totto.com/" class="__faq underscore-slide">Ventas Corporativas</a></li><li><a class="__livechat icon icon-mobile">Venta: Móvil 350 555 16 41</a></li><li><a href="/contactanos" class="__faq underscore-slide">Servicio al cliente</a></li></ul></div></div></section><!-- .Location --><section class="Access clearfix"><div class="HamburgerMenu"><a class="__hamburger"><span class="__btn"><span></span><span></span><span></span></span><span class="__text">Menu</span></a></div><div class="Logo"><a href="/"><img alt="Totto" src="/arquivos/totto-lg.png?v=636822137833700000" /></a></div><div class="Menu MenuTop NoListStyle ListInline"><nav><ul><!-- Ofertas--><!--<li><a href="/hot-sale" style="color:#d13336;">HotSale</a>
+               <div class="_dropdown">
+                  <div class="_submenus">
+                    <dl>
+                      <dt>Categorias</dt>
+                       <dd><a href="/totto-loco/maletas-totto-loco"><span class="underscore-slide">Maletines</span></a></dd>
+                       <dd><a href="/totto-loco/accesorios-totto-loco"><span class="underscore-slide">Accesorios</span></a></dd>
+                       <dd><a href="/totto-loco/ropa-adultos-totto-loco"><span class="underscore-slide">Ropa Adultos</span></a></dd>
+                       <dd><a href="/totto-loco/ropa-nina-totto-loco"><span class="underscore-slide">Ropa Niña</span></a></dd>
+                       <dd><a href="/totto-loco/ropa-nino-totto-loco"><span class="underscore-slide">Ropa Niño</span></a></dd>
+                       <dd><a href="/hot-sale"><span class="underscore-slide">Ver todo<div class="tot tot-arrow-right"></div></span></a></dd>
+                       </dl>--><!--<dl>
+                         <dt>Días Especiales</dt>
+                         <dd><a href="/ofertas/hot-sale"><span class="underscore-slide">Hot Sale</span></a></dd>
+                         <dd><a href="/ofertas/black-friday"><span class="underscore-slide">Black Friday</span></a></dd>
+                         <dd><a href="/ofertas/cyber-days"><span class="underscore-slide">Cyber Days</span></a></dd>
+                         <dd><a href="/ofertas/totto-loco"><span class="underscore-slide">Totto Loco</span></a></dd>
+                       </dl>--><!--<dl>
+                         <dt>Porcentajes</dt>--><!-- <dd><a href="/ofertas/70%?map=c,specificationFilter_135&amp;PS=48"><span class="underscore-slide">70%</span></a></dd> --><!-- <dd><a href="/ofertas/60%?map=c,specificationFilter_135&amp;PS=48"><span class="underscore-slide">60%</span></a></dd> --><!-- <dd><a href="/totto-loco/descuentos-totto-loco-50"><span class="underscore-slide">50%</span></a></dd>
+                         <dd><a href="/totto-loco/descuentos-totto-loco-40"><span class="underscore-slide">40%</span></a></dd>
+                         <dd><a href="/totto-loco/descuentos-totto-loco-30"><span class="underscore-slide">30%</span></a></dd>
+                         <dd><a href="/totto-loco/descuentos-totto-loco-20"><span class="underscore-slide">20%</span></a></dd>
+                         <dd><a href="/totto-loco/descuentos-totto-loco"><span class="underscore-slide">Ver todo<div class="tot tot-arrow-right"></div></span></a></dd>
+                       </dl>
+
+                  </div>
+                  <div class="_banner-menu">
+                    <vtex.cmc:dropbannerOfertas />
+                  </div>
+                </div>
+            </li>  --><!-- Morrales--><li class="_posfixed"><a href="/morrales">Morrales</a><div class="_dropdown" style="margin-left: -41px;"><div class="_submenus"><dl><dt>Descubre</dt><dd><a href="/morrales/hombre"><span class="underscore-slide">Hombre</span></a></dd><dd><a href="/morrales/mujer"><span class="underscore-slide">Mujer</span></a></dd><dd><a href="/morrales/nino"><span class="underscore-slide">Niño</span></a></dd><dd><a href="/morrales/nina"><span class="underscore-slide">Niña</span></a></dd></dl><dl><dt>Morrales para</dt><dd><a href="/regreso-a-clases/combos"><span class="underscore-slide">Combos Escolares</span></a></dd><dd><a href="/actividad/trabajo/morrales"><span class="underscore-slide">Trabajo</span></a></dd><dd><a href="/actividad/viaje/morrales"><span class="underscore-slide">Viaje</span></a></dd><dd><a href="/actividad/deporte/morrales"><span class="underscore-slide">Deporte</span></a></dd></dl><dl><dt><span style="color:transparent">_</span></dt></dl></div><div class="_banner-menu">
+  <a href="/morrales" title="Compra Maletines Totto">
+    <img src="/arquivos/morralesMenuEnero2018.jpg?v=636504972636500000" alt="Compra morrales Totto" />
+    <div class="__banner-menu-title">Compra Morrales</div>
+  </a>
+</div></div><!-- ._dropdown --></li><!-- Bolsos--><li class="_posfixed"><a href="/bolsos">Bolsos</a><div class="_dropdown" style="margin-left: -138.422px;"><div class="_submenus"><dl><dt>Descubre</dt><dd><a href="/bolsos/bolsos-manos-libres"><span class="underscore-slide">Bolsos Manos Libres</span></a></dd><dd><a href="/bolsos/maletines-ejecutivos"><span class="underscore-slide">Maletines Ejecutivos</span></a></dd><dd><a href="/bolsos/carteras"><span class="underscore-slide">Carteras</span></a></dd><dd><a href="/bolsos/maletas-deportivas"><span class="underscore-slide">Maletas Deportivas</span></a></dd></dl><dl><dt><span style="color:transparent">_</span></dt></dl><dl><dt><span style="color:transparent">_</span></dt></dl></div><div class="_banner-menu">
+  <a href="/bolsos" title="Compra Bolsos Totto">
+    <img src="/arquivos/bolsosMenuEnero2018.jpg?v=636504972641830000" alt="Compra bolsos Totto" />
+    <div class="__banner-menu-title">Compra Bolsos</div>
+  </a>
+</div></div><!-- ._dropdown --></li><!-- Accesorios--><li class="_posfixed"><a href="/accesorios">Accesorios</a><div class="_dropdown" style="margin-left: -217.359px;"><div class="_submenus"><dl><dt>Descubre</dt><dd><a href="/accesorios/billeteras"><span class="underscore-slide">Billeteras</span></a></dd><dd><a href="/accesorios/botilitos"><span class="underscore-slide">Botilitos</span></a></dd><dd><a href="/accesorios/canguros"><span class="underscore-slide">Canguros</span></a></dd><dd><a href="/accesorios/cartucheras"><span class="underscore-slide">Cartucheras</span></a></dd><dd><a href="/accesorios/cinturones"><span class="underscore-slide">Cinturones</span></a></dd></dl><dl><dt><span style="color:transparent">_</span></dt><!--<dd><a href="/accesorios/fragancias"><span class="underscore-slide">Fragancias</span></a></dd>--><dd><a href="/accesorios/gorras"><span class="underscore-slide">Gorras</span></a></dd><dd><a href="/accesorios/gafas-de-sol"><span class="underscore-slide">Gafas de sol</span></a></dd><dd><a href="/accesorios/llaveros"><span class="underscore-slide">Llaveros</span></a></dd><dd><a href="/accesorios/Loncheras"><span class="underscore-slide">Loncheras</span></a></dd></dl><dl><dt><span style="color:transparent">_</span></dt><dd><a href="/accesorios/Monederos"><span class="underscore-slide">Monederos</span></a></dd><dd><a href="/accesorios/relojes"><span class="underscore-slide">Relojes</span></a></dd><dd><a href="/accesorios/sombrillas"><span class="underscore-slide">Sombrillas</span></a></dd><dd><a href="/accesorios/tulas"><span class="underscore-slide">Tulas</span></a></dd><dd><a href="/accesorios/complementos"><span class="underscore-slide">Complementos</span></a></dd></dl></div><div class="_banner-menu">
+  <a href="/accesorios" title="Compra Accesorios Totto">
+    <img src="/arquivos/accesoriosMenuEnero2018.jpg?v=636504972675230000" alt="Compra accesorios Totto" />
+    <div class="__banner-menu-title">Compra Accesorios</div>
+  </a>
+</div></div><!-- ._dropdown --></li><!-- Ropa--><li class="_posfixed"><a href="/ropa">Ropa</a><div class="_dropdown" style="margin-left: -326.844px;"><div class="_submenus"><dl><dt><a href="/ropa/hombre/">Hombre</a></dt><dd><a href="/ropa/hombre/chaquetas"><span class="underscore-slide">Chaquetas</span></a></dd><dd><a href="/ropa/hombre/buzos"><span class="underscore-slide">Buzos</span></a></dd><dd><a href="/ropa/hombre/camisas"><span class="underscore-slide">Camisas</span></a></dd><dd><a href="/ropa/hombre/camisetas"><span class="underscore-slide">Camisetas</span></a></dd><dd><a href="/ropa/hombre/chalecos"><span class="underscore-slide">Chalecos</span></a></dd><!--<dd><a href="/ropa/hombre/guantes"><span class="underscore-slide">Guantes</span></a></dd>--><!--<dd><a href="/ropa/hombre/bufandas"><span class="underscore-slide">Bufandas</span></a></dd>--><dd><a href="/ropa/hombre/jeans"><span class="underscore-slide">Jeans</span></a></dd><dd><a href="/ropa/hombre/pantalones"><span class="underscore-slide">Pantalones</span></a></dd><dd><a href="/ropa/hombre/pantalonetas-y-bermudas"><span class="underscore-slide">Bermudas</span></a></dd><!--<dd><a href="/ropa/hombre/zapatos"><span class="underscore-slide">Zapatos</span></a></dd>--><dd><a href="/ropa/hombre"><span class="underscore-slide">Ver todo<div class="tot tot-arrow-right"></div></span></a></dd></dl><dl><dt><a href="/ropa/mujer">Mujer</a></dt><dd><a href="/ropa/mujer/chaquetas"><span class="underscore-slide">Chaquetas</span></a></dd><dd><a href="/ropa/mujer/buzos"><span class="underscore-slide">Buzos</span></a></dd><dd><a href="/ropa/mujer/camisas"><span class="underscore-slide">Camisas</span></a></dd><dd><a href="/ropa/mujer/camisetas"><span class="underscore-slide">Camisetas</span></a></dd><dd><a href="/ropa/mujer/chalecos"><span class="underscore-slide">Chalecos</span></a></dd><!--<dd><a href="/ropa/mujer/guantes"><span class="underscore-slide">Guantes</span></a></dd>--><dd><a href="/ropa/mujer/bufandas"><span class="underscore-slide">Bufandas</span></a></dd><dd><a href="/ropa/mujer/jeans"><span class="underscore-slide">Jeans</span></a></dd><dd><a href="/ropa/mujer/pantalones"><span class="underscore-slide">Pantalones</span></a></dd><dd><a href="/ropa/mujer/shorts"><span class="underscore-slide">Shorts</span></a></dd><!--<dd><a href="/ropa/mujer/zapatos"><span class="underscore-slide">Zapatos</span></a></dd>--><dd><a href="/ropa/mujer"><span class="underscore-slide">Ver todo<div class="tot tot-arrow-right"></div></span></a></dd></dl><dl><dt><a href="/ropa/nino">Niño</a></dt><dd><a href="/ropa/nino/chaquetas"><span class="underscore-slide">Chaquetas</span></a></dd><dd><a href="/ropa/nino/buzos"><span class="underscore-slide">Buzos</span></a></dd><dd><a href="/ropa/nino/camisas"><span class="underscore-slide">Camisas</span></a></dd><dd><a href="/ropa/nino/camisetas"><span class="underscore-slide">Camisetas</span></a></dd><dd><a href="/ropa/nino/chalecos"><span class="underscore-slide">Chalecos</span></a></dd><!--<dd><a href="/ropa/nino/guantes"><span class="underscore-slide">Guantes</span></a></dd>--><!--<dd><a href="/ropa/nino/bufandas"><span class="underscore-slide">Bufandas</span></a></dd>--><dd><a href="/ropa/nino/jeans"><span class="underscore-slide">Jeans</span></a></dd><dd><a href="/ropa/nino/pantalones"><span class="underscore-slide">Pantalones</span></a></dd><dd><a href="/ropa/nino/pantalonetas-y-bermudas"><span class="underscore-slide">Pantalonetas</span></a></dd><!--<dd><a href="/ropa/nino/zapatos"><span class="underscore-slide">Zapatos</span></a></dd>--><dd><a href="/ropa/nino"><span class="underscore-slide">Ver todo<div class="tot tot-arrow-right"></div></span></a></dd></dl><dl><dt><a href="/ropa/nina">Niña</a></dt><dd><a href="/ropa/nina/chaquetas"><span class="underscore-slide">Chaquetas</span></a></dd><dd><a href="/ropa/nina/buzos"><span class="underscore-slide">Buzos</span></a></dd><dd><a href="/ropa/nina/camisas"><span class="underscore-slide">Camisas</span></a></dd><dd><a href="/ropa/nina/camisetas"><span class="underscore-slide">Camisetas</span></a></dd><dd><a href="/ropa/nina/chalecos"><span class="underscore-slide">Chalecos</span></a></dd><!--<dd><a href="/ropa/nina/guantes"><span class="underscore-slide">Guantes</span></a></dd>--><!--<dd><a href="/ropa/nina/bufandas"><span class="underscore-slide">Bufandas</span></a></dd>--><dd><a href="/ropa/nina/jeans"><span class="underscore-slide">Jeans</span></a></dd><dd><a href="/ropa/nina/pantalones"><span class="underscore-slide">Pantalones</span></a></dd><!--<dd><a href="/ropa/nina/shorts"><span class="underscore-slide">Shorts</span></a></dd>--><!--<dd><a href="/ropa/nina/zapatos"><span class="underscore-slide">Zapatos</span></a></dd>--><dd><a href="/ropa/nina"><span class="underscore-slide">Ver todo<div class="tot tot-arrow-right"></div></span></a></dd></dl></div><div class="_banner-menu">
+  <a href="/ropa" title="Compra Ropa Totto">
+    <img src="/arquivos/RopaMenuEnero2018.jpg?v=636504972650770000" alt="Compra Ropa Totto" />
+    <div class="__banner-menu-title">Compra Ropa</div>
+  </a>
+</div></div><!-- ._dropdown --></li><!-- Viaje--><li class="_posfixed"><a href="/viaje">Viaje</a><div class="_dropdown" style="margin-left: -389.797px;"><div class="_submenus"><dl><dt>Descubre</dt><dd><a href="/viaje/maletas-grandes"><span class="underscore-slide">Maletas Grandes</span></a></dd><dd><a href="/viaje/maletas-medianas"><span class="underscore-slide">Maletas Medianas</span></a></dd><dd><a href="/viaje/maletas-pequeñas"><span class="underscore-slide">Maletas Pequeñas</span></a></dd><dd><a href="/viaje/outdoor"><span class="underscore-slide">Morrales Outdoor</span></a></dd><dd><a href="/viaje/maletas-deportivas"><span class="underscore-slide">Maletas Deportivas</span></a></dd></dl><dl><dt><span style="color:transparent">_</span></dt><dd><a href="/viaje/neceser-viajero"><span class="underscore-slide">Neceser Viajero</span></a></dd><dd><a href="/viaje/almohadas"><span class="underscore-slide">Almohadas</span></a></dd><dd><a href="/viaje/candados"><span class="underscore-slide">Candados</span></a></dd><!--<dd><a href="/viaje/portadocumentos"><span class="underscore-slide">Portadocumentos</span></a></dd>--><!--<dd><a href="/viaje/marcadores-de-maleta"><span class="underscore-slide">Marcadores De Maleta</span></a></dd>--></dl><dl><dt><span style="color:transparent">_</span></dt></dl></div><div class="_banner-menu">
+  <a href="/viaje" title="Compra viaje Totto">
+    <img src="/arquivos/ViajeMenuEnero2018.jpg?v=636504972655730000" alt="Compra Viaje Totto" />
+    <div class="__banner-menu-title">Prepara tu Viaje</div>
+  </a>
+</div></div><!-- ._dropdown --></li><!-- Totto Lab--><li class="_nosub _posfixed"><a href="http://www.tottolab.com/" target="blank" id="labClickTotto">Personaliza</a></li><!-- innovación--><!-- Top 10--><li class="_nosub _posfixed"><a href="http://tottofactory.com/wayuu/">Innovación</a></li><!-- Top 10--><!-- <li><a href="/innovacion">Innovación</a></li> --><!-- blog--><!--<li><a href="/ofertas" style="color:#1db2c8;">Cyber Week</a></li>--><!-- blog--><!-- blog--><li class="_nosub _posfixed"><a href="http://www.tottodilotodo.com/">Blog</a></li><!-- blog--></ul></nav></div><!-- .Menu --><div class="Utility UtilityTop NoSelection NoUnderline"><div class="_search-header"><a class="__searchBtn icon icon-search">Buscar</a></div><div class="my-orders-header"><a class="__ordersBtn icon icon-orders">Mis pedidos</a><div class="_dropdownMyOrders"><dl><dt><script>
+                                    $(document).ready(function () {
+                                        vtexid.setScope('fb7c1e12-f12f-4883-ada3-9dad43ef9f0b');
+                                        vtexid.setScopeName('tottoco');
+                                        $('body').on('click', '#login', function () {
+                                            vtexid.start(
+                                                    {
+                                                        returnUrl: '/reloj-analogo-otun-hombre/p',
+                                                        userEmail: '',
+                                                        locale: 'es-CO',
+                                                        forceReload: false
+                                                    });
+                                        });
+                                    });
+                                   </script><div class="ajax-content-loader" rel="/no-cache/user/welcome">
+        <p class="welcome">
+        Bem-vindo!
+        <em><a id="login">Já é cadastrado?
+        </a></em>
+        </p>
+</div></dt><dt><a href="/Account">Historial</a></dt><dt><a href="/rastrea-pedido">Rastreo Servientrega</a></dt><dt><a href="http://www.coordinadora.com/portafolio-de-servicios/servicios-en-linea/rastrear-guias/" target="blank_">Rastreo Coordinadora</a></dt><dt><a href="/logout">Salir</a></dt></dl></div></div><a class="__cart"><div class="portal-totalizers-ref"><div class="amount-items-in-cart"><div class="cartInfoWrapper"><span class="title"><span id="MostraTextoXml1">Resumo do Carrinho</span></span><ul class="cart-info"><li class="amount-products"><strong><span id="MostraTextoXml2">Total de Produtos:</span></strong> <em class="amount-products-em">1</em></li><li class="amount-items"><strong><span id="MostraTextoXml3">Itens:</span></strong> <em class="amount-items-em">1</em></li><li class="amount-kits"><strong><span id="MostraTextoXml4">Total de Kits:</span></strong> <em class="amount-kits-em"></em></li><li class="total-cart"><strong><span id="MostraTextoXml5">Valor Total:</span></strong> <em class="total-cart-em">$ 159.900,00</em></li></ul></div></div></div><script>$('.portal-totalizers-ref').minicart({ showMinicart: false, showTotalizers: true, showShippingOptions: false });</script></a></div><!-- .Utility --></section><!-- .Access --><!-- Header promoBanner --><div class="promo-banner"><!-- Promotional banner -->
+<div class="promo-banner">
+	<div class="rotativo"><div rel="1" class="banner_rotativo">
+			<a style="color:#d9d9d9 !important;" class="anterior">Anterior</a>
+			<a class="promo-banner-text" rel="1" href="https://co.totto.com/legales/pago-contra-entrega" target="_blank"> 
+				Ahora compra y paga contra entrega. <span style="color:#ffd523;">Ver todo </span>
+			</a> 
+			<a style="color:#d9d9d9 !important;" class="siguiente">siguiente</a>
+		</div></div>
+</div>
+<!-- Promotional banner --><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome rotativo não foi renderizado por nao ser um XDocument válido, erro: - Object reference not set to an instance of an object.--><a class="promo-banner-close tot tot-close"></a></div><!-- Header promoBanner --></header><div class="__search-overlay"></div><!-- PDP Template --><main><div class="promo-banner-product"></div><!-- product section --><section class="ProductSection"><div class="breadcrumb"><div class="bread-crumb" xmlns:v="http://rdf.data-vocabulary.org/#">
+<ul>
+<li typeof="v:Breadcrumb"><a href="https://co.totto.com/" rel="v:url" property="v:title" style="color: rgb(161, 161, 161);">tottoco</a></li>
+<li typeof="v:Breadcrumb"><a href="https://co.totto.com/accesorios" rel="v:url" property="v:title" style="color: rgb(161, 161, 161);">Accesorios</a></li><li class="last" typeof="v:Breadcrumb"><a href="https://co.totto.com/accesorios/relojes" rel="v:url" property="v:title">Relojes</a></li></ul>
+</div>
+</div><div class="ProdImg"><div class="_prodImg tot slick-initialized slick-slider slick-dotted"><div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 3564px;"><div class="_zoom_panel _zoom_panel0 _on slick-slide slick-current slick-active _imgLoaded" zoom="https://tottoco.vteximg.com.br/arquivos/ids/187722-1500-1500/OTUN-181-N01_C.png?v=636597389658500000" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide10" style="width: 594px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1; overflow: hidden;"><img class="__img__" src="https://tottoco.vteximg.com.br/arquivos/ids/187722-1500-1500/OTUN-181-N01_C.png?v=636597389658500000" /><img src="https://tottoco.vteximg.com.br/arquivos/ids/187722-1500-1500/OTUN-181-N01_C.png?v=636597389658500000" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 1500px; height: 1500px; border: none; max-width: none; max-height: none;" /></div><div class="_zoom_panel _zoom_panel1  slick-slide _imgLoaded" zoom="https://tottoco.vteximg.com.br/arquivos/ids/187723-1500-1500/OTUN-181-N01_PRINCIPAL.png?v=636597389675170000" data-slick-index="1" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide11" style="width: 594px; position: relative; left: -594px; top: 0px; z-index: 998; opacity: 0; overflow: hidden;"><img class="__img__" src="https://tottoco.vteximg.com.br/arquivos/ids/187723-1500-1500/OTUN-181-N01_PRINCIPAL.png?v=636597389675170000" /><img src="https://tottoco.vteximg.com.br/arquivos/ids/187723-1500-1500/OTUN-181-N01_PRINCIPAL.png?v=636597389675170000" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 1500px; height: 1500px; border: none; max-width: none; max-height: none;" /></div><div class="_zoom_panel _zoom_panel2  slick-slide _imgLoaded" zoom="https://tottoco.vteximg.com.br/arquivos/ids/196489-1500-1500/reloj-analogo-para-hombre-3-atm-otun-negro_1.jpg?v=636758028160670000" data-slick-index="2" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide12" style="width: 594px; position: relative; left: -1188px; top: 0px; z-index: 998; opacity: 0; overflow: hidden;"><img class="__img__" src="https://tottoco.vteximg.com.br/arquivos/ids/196489-1500-1500/reloj-analogo-para-hombre-3-atm-otun-negro_1.jpg?v=636758028160670000" /><img src="https://tottoco.vteximg.com.br/arquivos/ids/196489-1500-1500/reloj-analogo-para-hombre-3-atm-otun-negro_1.jpg?v=636758028160670000" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 1500px; height: 1500px; border: none; max-width: none; max-height: none;" /></div><div class="_zoom_panel _zoom_panel3  slick-slide _imgLoaded" zoom="https://tottoco.vteximg.com.br/arquivos/ids/196490-1500-1500/reloj-analogo-para-hombre-3-atm-otun-negro_2.jpg?v=636758028172100000" data-slick-index="3" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide13" style="width: 594px; position: relative; left: -1782px; top: 0px; z-index: 998; opacity: 0; overflow: hidden;"><img class="__img__" src="https://tottoco.vteximg.com.br/arquivos/ids/196490-1500-1500/reloj-analogo-para-hombre-3-atm-otun-negro_2.jpg?v=636758028172100000" /><img src="https://tottoco.vteximg.com.br/arquivos/ids/196490-1500-1500/reloj-analogo-para-hombre-3-atm-otun-negro_2.jpg?v=636758028172100000" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 1500px; height: 1500px; border: none; max-width: none; max-height: none;" /></div><div class="_zoom_panel _zoom_panel4  slick-slide _imgLoaded" zoom="https://tottoco.vteximg.com.br/arquivos/ids/231322-1500-1500/Reloj-para-Hombre-Analogo-Otun-negro-negro-black_2.jpg?v=636898368128470000" data-slick-index="4" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide14" style="width: 594px; position: relative; left: -2376px; top: 0px; z-index: 998; opacity: 0; overflow: hidden;"><img class="__img__" src="https://tottoco.vteximg.com.br/arquivos/ids/231322-1500-1500/Reloj-para-Hombre-Analogo-Otun-negro-negro-black_2.jpg?v=636898368128470000" /><img src="https://tottoco.vteximg.com.br/arquivos/ids/231322-1500-1500/Reloj-para-Hombre-Analogo-Otun-negro-negro-black_2.jpg?v=636898368128470000" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 1500px; height: 1500px; border: none; max-width: none; max-height: none;" /></div><div class="_zoom_panel _zoom_panel5  slick-slide _imgLoaded" zoom="https://tottoco.vteximg.com.br/arquivos/ids/231323-1500-1500/Reloj-para-Hombre-Analogo-Otun-negro-negro-black_4.jpg?v=636898368140070000" data-slick-index="5" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide15" style="width: 594px; position: relative; left: -2970px; top: 0px; z-index: 998; opacity: 0; overflow: hidden;"><img class="__img__" src="https://tottoco.vteximg.com.br/arquivos/ids/231323-1500-1500/Reloj-para-Hombre-Analogo-Otun-negro-negro-black_4.jpg?v=636898368140070000" /><img src="https://tottoco.vteximg.com.br/arquivos/ids/231323-1500-1500/Reloj-para-Hombre-Analogo-Otun-negro-negro-black_4.jpg?v=636898368140070000" class="zoomImg" style="position: absolute; top: 0px; left: 0px; opacity: 0; width: 1500px; height: 1500px; border: none; max-width: none; max-height: none;" /></div></div></div></div><div class="_prodImgZoom"></div><div class="_navimg"><div class="_navblts" role="toolbar"><ul class="slick-dots" role="tablist" style="display: block;"><li class="slick-active" aria-hidden="false" role="presentation" aria-selected="true" aria-controls="navigation10" id="slick-slide10"><button type="button" data-role="none" role="button" tabindex="0">1</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation11" id="slick-slide11"><button type="button" data-role="none" role="button" tabindex="0">2</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation12" id="slick-slide12"><button type="button" data-role="none" role="button" tabindex="0">3</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation13" id="slick-slide13"><button type="button" data-role="none" role="button" tabindex="0">4</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation14" id="slick-slide14"><button type="button" data-role="none" role="button" tabindex="0">5</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation15" id="slick-slide15"><button type="button" data-role="none" role="button" tabindex="0">6</button></li></ul></div></div></div><div class="PriceSection"><div class="_prodname _desktop-except"><div class="fn productName  Reloj-Analogo-Otun-Hombre ">Reloj Analogo Otun Hombre</div><input id="___rc-p-id" type="hidden" value="2003191" autocomplete="off" /><input id="___rc-p-dv-id" type="hidden" value="159900" autocomplete="off" /><input id="___rc-p-sku-ids" type="hidden" value="10178,10179" autocomplete="off" /><input id="___rc-p-kit-ids" type="hidden" value="" autocomplete="off" /></div><div class="_prodprice"><div class="plugin-preco"><div class="productPrice"><p class="descricao-preco"><em class="valor-por price-best-price" style="display: block;">  <strong class="skuBestPrice">$ 159.900,00</strong></em><em class="valor-dividido price-installments" style="display: inline;"><span><span>ou <label class="skuBestInstallmentNumber">48<span class="x">x</span></label> de </span><strong><label class="skuBestInstallmentValue">$ 3.332,00</label></strong></span></em></p><p class="preco-a-vista price-cash" style="display: block;">Preço a vista:<strong class="skuPrice">$ 159.900,00</strong></p></div></div><script>$('.plugin-preco').price(2003191);</script></div><div class="_prodskus"><div class="sku-selector-container sku-selector-container-0"><ul class="topic ColorrefP productid-2003191 numopt-2"><li class="specification">Color Ref.</li><li class="select skuList item-dimension-ColorrefP"><span class="group_0"><input type="radio" name="2003191_ColorrefP" dimension="ColorrefP" data-value="N01" data-dimension="Color Ref." class="skuselector-specification-label input-dimension-ColorrefP sku-selector skuespec_N01 change-image checked sku-picked" id="2003191_ColorrefP_0" value="N01" specification="N01" autocomplete="off" checked="checked" /><label for="2003191_ColorrefP_0" class="dimension-ColorrefP espec_0 skuespec_N01 skuespec_Color-Ref._opcao_N01 skuespec_ColorrefP_opcao_N01 checked sku-picked color-N01">N01</label><input type="radio" name="2003191_ColorrefP" dimension="ColorrefP" data-value="T04" data-dimension="Color Ref." class="skuselector-specification-label input-dimension-ColorrefP sku-selector skuespec_T04 change-image" id="2003191_ColorrefP_1" value="T04" specification="T04" autocomplete="off" /><label for="2003191_ColorrefP_1" class="dimension-ColorrefP espec_0 skuespec_T04 skuespec_Color-Ref._opcao_T04 skuespec_ColorrefP_opcao_T04 color-T04">T04</label></span></li></ul></div><script>$('.sku-selector-container-0').skuSelector(skuJson_0, {selectSingleDimensionsOnOpening: 'true'});</script></div><div class="msj-error-size" style="text-align: center; font-size: 11px; color: #F03F35; display:none;">Lo sentimos, talla sin existencias.</div><div class="_prodref"><div class="skuReference">AC58IND123-1810Z-N01</div></div><div class="_prodqty __underline"><div class="__qtylbl __lbl __underline">Cantidad:</div><div class="_qtysel"><div class="selectric-wrapper selectric-combo selectric-responsive"><div class="selectric-hide-select"><select class="combo" tabindex="-1" autocomplete="off"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option></select></div><div class="selectric"><span class="label">1</span><b class="button"><i class="tot"></i></b></div><div class="selectric-items" tabindex="-1"><div class="selectric-scroll"><ul><li data-index="0" class="selected">1</li><li data-index="1" class="">2</li><li data-index="2" class="">3</li><li data-index="3" class="">4</li><li data-index="4" class="last">5</li></ul></div></div><input class="selectric-input" tabindex="0" autocomplete="off" /></div></div></div><!--<img src="/arquivos/contadorokk.gif?v=636608542001200000" alt=""/>--><div class="_buybtn"><a target="_top" class="buy-button buy-button-ref active added __active" href="/checkout/cart/add?sku=10178&amp;qty=1&amp;seller=1&amp;redirect=true&amp;sc=1" style="display:block">AÃ±adido!</a><script>$('.buy-button-ref').buyButton(2003191, {salesChannel: 1}, {})</script><p class="unavailable-button" style="display:none">Produto Esgotado</p><input type="hidden" class="buy-button-amount" value="1" autocomplete="off" /></div></div><div class="ProdDetails"><div class="_prodname"><h1><div class="fn productName  Reloj-Analogo-Otun-Hombre ">Reloj Analogo Otun Hombre</div><input id="___rc-p-id" type="hidden" value="2003191" autocomplete="off" /><input id="___rc-p-dv-id" type="hidden" value="159900" autocomplete="off" /><input id="___rc-p-sku-ids" type="hidden" value="10178,10179" autocomplete="off" /><input id="___rc-p-kit-ids" type="hidden" value="" autocomplete="off" /></h1></div><div class="_prodprice"><div class="plugin-preco"><div class="productPrice"><p class="descricao-preco"><em class="valor-por price-best-price" style="display: block;">  <strong class="skuBestPrice">$ 159.900,00</strong></em><em class="valor-dividido price-installments" style="display: inline;"><span><span>ou <label class="skuBestInstallmentNumber">48<span class="x">x</span></label> de </span><strong><label class="skuBestInstallmentValue">$ 3.332,00</label></strong></span></em></p><p class="preco-a-vista price-cash" style="display: block;">Preço a vista:<strong class="skuPrice">$ 159.900,00</strong></p></div></div><script>$('.plugin-preco').price(2003191);</script></div><div class="_prodref"><div class="skuReference">AC58IND123-1810Z-N01</div></div><!-- Details --><div class="prod-detail-section section-details active"><span class="detail-title underscore-slide">Descripción</span><div class="detail-body" style="display: block;"><div class="productDescription">¡los accesorios jamás pueden faltar! Por eso diseñamos relojes, lentes de sol y cinturones para chicos y grandes que combinan perfectamente con todos tus outfits. ¿cuál eliges?</div><div class="special-features" style="display: none;"></div></div></div><!-- Specifications --><div class="prod-detail-section section-specs"><span class="detail-title underscore-slide">Detalles</span><div class="detail-body"><div id="caracteristicas"><h4 class="group Accesorios">Accesorios</h4><table cellspacing="0" class="group Accesorios"><tbody><tr class="even"><th class="name-field Peso">Peso</th><td class="value-field Peso">0.047 kg</td></tr></tbody></table><h4 class="group Attributes">Attributes</h4><table cellspacing="0" class="group Attributes"><tbody><tr class="even"><th class="name-field Material">Material</th><td class="value-field Material">caja: aleacion zn al ni=100%, caja espalda: acero inoxidable=100%, pulsera: pu leather=100%, cristal: mineral=100%</td></tr></tbody></table></div><div class="_productdetailsdata" style="display:none;">{"A01":"cuidado especial",
+"A02":"cuidado especial",
+"V01":"porta pasaporte",
+"V02":"identificador",
+"V03":"correa o funda colgable",
+"V04":"cojín almohada",
+"V05":"comprensión interna",
+"V06":"maleta pequeña",
+"V07":"sistema de ruedas 360",
+"V08":"maleta grande",
+"V09":"sistema de ruedas",
+"V10":"peso pluma",
+"V11":"morral extraible",
+"V12" :"expandible",
+"V13":"travel sentry",
+"V14":"bascula incorporada",
+"V15":"portavestido",
+"V16":"porta pasaporte",
+"B04":"doble faz",
+"B05":"llavero retractil",
+"B06":"llavero extraible",
+"B07":"pasador",
+"B08":"bloqueo cremallera",
+"B11":"raincover",
+"B15":"lentes intercambiables",
+"B16":"bolsillo para botella",
+"B18":"mosqueton",
+"B19":"extra ligero",
+"B20":"mantiene el frio",
+"B22":"distribución de peso",
+"B23":"bolsillo para zapatos",
+"B25":"proteccion ruedas",
+"B26":"bolsillo multiusos",
+"B28":"bolsillo secreto",
+"B29":"bolsillo térmico",
+"B30":"incluye espejo",
+"B31":"bolsillo suave",
+"B32":"automatica",
+"B33":"porta lentes",
+"B34":"2 EN 1",
+"B35":"pasador en ruedas",
+"B38":"mosqueton",
+"B39":"bolsillo para celular",
+"B42":"bolsillo expandible",
+"B43":"botellon bebidas calientes",
+"B44":"monedero adicional",
+"B46":"cremallera impermeable",
+"B47":"gel alimentos frescos",
+"B49":"portamosqueton",
+"B50":"cinturon reversible",
+"B52":"3 EN 1",
+"B53":"2 EN 1",
+"B54":"argolla para candado",
+"B56":"bolsillo anti humedad",
+"B57":"4 EN 1",
+"B59":"mosqueton porta llaves",
+"B60":"cartuchera adicional",
+"B61":"5 ltrs",
+"B62":"10 ltrs",
+"B63":"15 ltrs",
+"B64":"20 ltrs",
+"B65":"30 ltrs",
+"B66":"45 ltrs",
+"B67":"50 ltrs",
+"B68":"17 ltrs",
+"B75":"panel frontal 3d",
+"B77":"ruedas con luces",
+"B79":"plastico no tóxico",
+"B80":"rfid blocker",
+"B81":"rifd blocker",
+"B82":"no bebidas calientes",
+"B83":"25 ltrs",
+"B84":"35 ltrs",
+"B85":"ajustable",
+"B86":"bolsillo de alimentos",
+"B87":"no temperaturas extremas",
+"B88":"proteccion uv",
+"B89":"hebilla funcional",
+"B91":"bolsillo suave",
+"B92":"reflectivo",
+"B93":"bolsillo anti humedad",
+"B94":"2 ruedas",
+"B95":"4 ruedas",
+"B96":"organizador interno",
+"B98":"manija telescopica",
+"B99":"bolsillo para correas",
+"B100":"sistema de seguridad",
+"B101":"expandible",
+"B102":"7 ltrs",
+"B103":"18 ltrs",
+"B104":"19 ltrs",
+"B105":"3 ruedas",
+"B108":"bolsillo espaldar",
+"B109":"bolsillo con cierre magnetico",
+"B110":"porta botellas interno",
+"B111":"reflectivo",
+"E01":"flujo de aire",
+"E02":"espaldar ergonomico",
+"E03":"espaldar termoformado",
+"E04":"correas confortables",
+"E05":"correa lumbar",
+"E07":"correa de pecho",
+"E08":"correa ajustables",
+"E09":"correas de compresion",
+"E10":"manija de goma",
+"E11":"correa estabilizadora",
+"E12":"correas con capsulas de aire",
+"E15":"correas termoformadas",
+"E16":"manija ergonómica",
+"E17":"correa de doble uso",
+"E19":"correas de ajuste",
+"T03":"bolsillo para audio",
+"T06":"porta celular",
+"T07":"cartuchera extraible",
+"T08":"bolsillo suave",
+"T10":"bolsillos suaves",
+"T14":"panel solar",
+"T15":"hidro morral",
+"T16":"parlantes",
+"T17":"tinta hidrocrómica",
+"T18":"luz frontal",
+"T22":"15.4 pulgadas",
+"T23":"frontal termoformado",
+"T25":"10 pulgadas",
+"T26":"13 pulgadas",
+"T27":"14 pulgadas",
+"T28":"7 pulgadas",
+"T29" :"8 pulgadas",
+"T30":"10 pulgadas",
+"T31":"14 pulgadas",
+"T32":"porta pc",
+"T33":"bolsillo porta tableta",
+"T36":"conexión audio",
+"T40":"salida audio",
+"T41":"conector usb",
+"T42":"10 pulgadas",
+"T43":"13 pulgadas",
+"T44":"14 pulgadas",
+"T45":"15.4 pulgadas",
+"T46":"12 pulgadas",
+"B01":"superficie antideslizante",
+"B02":"morral seguro",
+"B03":"bolso extraíble",
+"B09":"visera plegable",
+"B10":"bolsillo lateral",
+"B13":"argollas removibles",
+"B14":"elástico adicional",
+"B17":"cuidado especial",
+"B21":"no bebidas calientes, ni congelar",
+"B24":"de morral a canguro",
+"B27":"espejo ocultable",
+"B36":"bolsillo para casco",
+"B37":"malla para casco",
+"B40":"porta chequera",
+"B41":"botilito bebidas calientes y frías",
+"B45":"correa con mosquetón",
+"B48":"vivo reflectivo",
+"B51":"cuidado especial",
+"B51":"cuidado especial",
+"B58":"mantiene los alimentos frescos",
+"B69":"soporte scooter",
+"B78":"vivo reflectivo",
+"B90":"protección para la lluvia",
+"E06":"correas de compresión",
+"E13":"correas removibles",
+"E14":"correas inferiores",
+"E18":"espaldar ergonómico",
+"T01":"conexión para audio",
+"T02":"luces direccionales",
+"T04":"estuche ipad",
+"T05":"guantes para dispositivo touch",
+"T09":"soporte para cable de audio",
+"T11":"bolsillo para PC 10 pulgadas",
+"T12":"bolsillo para PC 14 pulgadas",
+"T13":"bolsillo para PC 15.4 pulgadas",
+"T19":"alarma de seguridad",
+"T20":"bolsillo para tableta",
+"T21":"porta iPad interno",
+"T24":"porta pc ajustable",
+"U1":"dos ruedas",
+"U2":"cuatro ruedas",
+"U3":"mango telescópico",
+"U4":"lentes policromáticos",
+"U5":"correa removible",
+"U6":"organizadores",
+"U7":"beneficios",
+"IT":"tecnológico",
+"IE":"eco friendly",
+"IR":"responsabilidad social",
+"IB":"beta",
+"TT1":"alerta vibratoria",
+"TT2":"repelente al agua",
+"TT3":"puerto de carga USB,",
+"TT4":"tag Bluetooth X 2,",
+"TT5":"candado con guaya,",
+"TT6":"bolsillos ocultos",
+"TT7":"app",
+"C01":"cuidado especial",
+"C02":"cuidado especial",
+"C03":"cuidado especial",
+"C04":"accesorios de cuidados especial",
+"F01":"2 in 1",
+"F02":"no planchar",
+"F03":"tiro alto",
+"F04":"colapsible en bolsa",
+"F05":"reversible",
+"F06":"slim fit",
+"F07":"comfort fit",
+"F08":"super skinny fit",
+"F09":"reflectivo",
+"F13":"reflectivo cuidado especial",
+"IT":"Tecnológico",
+"IE":"Eco Friendly",
+"IR":"Responsabilidad Social",
+"IB":"Beta"
+}</div></div></div><!-- Product care --><div class="prod-detail-section section-prod-care" style="display: none;"><span class="detail-title underscore-slide">Cuidados del Producto</span><div class="detail-body"></div></div><!-- Shipping & returns --><!-- <div class="prod-detail-section section-shipping">
+              <span class="detail-title underscore-slide">Shipping &amp; Returns</span>
+              <div class="detail-body">
+                  <vtex:contentPlaceHolder id="shippingAndReturn" />
+              </div>
+            </div>--><!-- Share --><div class="prod-detail-section section-share"><span class="detail-title underscore-slide">Compartir</span><div class="detail-body"><!-- AddToAny BEGIN --><div><!-- Facebook --><a href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fco.totto.com%2Freloj-analogo-otun-hombre%2Fp" target="_blank"><span class="tot tot-facebook"></span></a><!--Twitter--><a href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fco.totto.com%2Freloj-analogo-otun-hombre%2Fp" target="_blank"><span class="tot tot-twitter"></span></a><!--Google Plus--><a href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fco.totto.com%2Freloj-analogo-otun-hombre%2Fp" target="_blank"><span class="tot tot-google-plus"></span></a><!--Pinterest--><a href="https://www.addtoany.com/add_to/pinterest?linkurl=https%3A%2F%2Fco.totto.com%2Freloj-analogo-otun-hombre%2Fp" target="_blank"><span class="tot tot-pinterest"></span></a></div><!-- AddToAny END --></div></div></div><!-- .ProdDetails --></section><!-- product section end --><!-- product suggestions - showcase + reviews --><section class="ProductSuggestions"><div class="compreJunto" id="combo"><div id="divCompreJunto" class="buy-together-content"></div></div><div class="ProductShowcase"><div class="_showcase-tabs"><h2 class="" style="display: none;">Complementa tu estilo</h2><h2 class="_on">Especiales para ti</h2></div><div class="_showcase-panels">
+  <div id="related-accesories" class="">
+    
+    <ul class="slick-initialized slick-slider">
+      <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 5000px; transform: translate3d(-1px, 0px, 0px);"><li class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option"></li></div></div>
+    </ul>
+  </div>
+<div class="n2colunas _on">
+<ul class="slick-initialized slick-slider"><div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 10000px; transform: translate3d(-465px, 0px, 0px);"><li layout="b48e7d50-cd8e-4ca7-a550-2dcbd6f10187" class="accesorios-i-bufandas-gorras-gafas-y-mas-i-totto last slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1">
+
+<div class="_showcase">
+  <div class="_p_box">
+    <a href="https://co.totto.com/reloj-analogo-ayrton-hombre-800/p" title="Reloj Analogo Ayrton Hombre" tabindex="-1">
+        <span class="__p_img">
+          <img src="https://tottoco.vteximg.com.br/arquivos/ids/174082-470-470/AYRTON-1610Z-N01_B.png?v=636511186928870000" width="470" height="470" alt="AYRTON-1610Z-N01_B" id="" />
+        </span>
+    </a>
+    <span class="_name_price">
+      <span class="__p_name">Reloj Analogo Ayrton Hombre</span>
+      
+            <span class="_p_pricing">
+
+        <!-- product price -->
+        <span class="_p_priceoffer_">
+          <span class="__p_priceoffer">$164.900,00</span>
+        </span>
+        <!-- product price:end -->
+        
+                
+      </span>
+          </span>
+    
+    <span class="_p_details">
+            
+      <span class="_colors_custom">
+        <span class="_colors"></span>
+        <span class="_custom">Customize</span>
+      </span>
+
+      <span class="_swatches_plus">
+        <span class="_swatches"></span>
+        <span class="_plus">+ View All</span>
+      </span>
+      
+      <span class="__p_buy_btn">Buy</span>
+      
+          </span>
+
+    <span class="_p_highlight" style="display:none;"></span>
+    
+  </div>
+</div>
+</li><li layout="b48e7d50-cd8e-4ca7-a550-2dcbd6f10187" class="accesorios-i-bufandas-gorras-gafas-y-mas-i-totto slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option">
+
+<div class="_showcase">
+  <div class="_p_box">
+    <a href="https://co.totto.com/reloj-analogo-pikes-hombre-347/p" title="Reloj Analogo Pikes Hombre" tabindex="0">
+        <span class="__p_img">
+          <img src="https://tottoco.vteximg.com.br/arquivos/ids/174079-470-470/PIKES-1610Z-N01-D.png?v=636511186881830000" width="470" height="470" alt="PIKES-1610Z-N01-D" id="" />
+        </span>
+    </a>
+    <span class="_name_price">
+      <span class="__p_name">Reloj Analogo Pikes Hombre</span>
+      
+            <span class="_p_pricing">
+
+        <!-- product price -->
+        <span class="_p_priceoffer_">
+          <span class="__p_priceoffer">$89.900,00</span>
+        </span>
+        <!-- product price:end -->
+        
+                <span class="_p_price_">
+          <span class="__p_price">$149.900,00</span>
+        </span>
+                
+      </span>
+          </span>
+    
+    <span class="_p_details">
+            
+      <span class="_colors_custom">
+        <span class="_colors"></span>
+        <span class="_custom">Customize</span>
+      </span>
+
+      <span class="_swatches_plus">
+        <span class="_swatches"></span>
+        <span class="_plus">+ View All</span>
+      </span>
+      
+      <span class="__p_buy_btn">Buy</span>
+      
+          </span>
+
+    <span class="_p_highlight" style="display:none;"></span>
+    
+  </div>
+</div>
+</li><li layout="b48e7d50-cd8e-4ca7-a550-2dcbd6f10187" class="accesorios-i-bufandas-gorras-gafas-y-mas-i-totto last slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" role="option">
+
+<div class="_showcase">
+  <div class="_p_box">
+    <a href="https://co.totto.com/reloj-analogo-ayrton-hombre-800/p" title="Reloj Analogo Ayrton Hombre" tabindex="-1">
+        <span class="__p_img">
+          <img src="https://tottoco.vteximg.com.br/arquivos/ids/174082-470-470/AYRTON-1610Z-N01_B.png?v=636511186928870000" width="470" height="470" alt="AYRTON-1610Z-N01_B" id="" />
+        </span>
+    </a>
+    <span class="_name_price">
+      <span class="__p_name">Reloj Analogo Ayrton Hombre</span>
+      
+            <span class="_p_pricing">
+
+        <!-- product price -->
+        <span class="_p_priceoffer_">
+          <span class="__p_priceoffer">$164.900,00</span>
+        </span>
+        <!-- product price:end -->
+        
+                
+      </span>
+          </span>
+    
+    <span class="_p_details">
+            
+      <span class="_colors_custom">
+        <span class="_colors"></span>
+        <span class="_custom">Customize</span>
+      </span>
+
+      <span class="_swatches_plus">
+        <span class="_swatches"></span>
+        <span class="_plus">+ View All</span>
+      </span>
+      
+      <span class="__p_buy_btn">Buy</span>
+      
+          </span>
+
+    <span class="_p_highlight" style="display:none;"></span>
+    
+  </div>
+</div>
+</li><li layout="b48e7d50-cd8e-4ca7-a550-2dcbd6f10187" class="accesorios-i-bufandas-gorras-gafas-y-mas-i-totto slick-slide slick-cloned" data-slick-index="2" aria-hidden="true" tabindex="-1">
+
+<div class="_showcase">
+  <div class="_p_box">
+    <a href="https://co.totto.com/reloj-analogo-pikes-hombre-347/p" title="Reloj Analogo Pikes Hombre" tabindex="-1">
+        <span class="__p_img">
+          <img src="https://tottoco.vteximg.com.br/arquivos/ids/174079-470-470/PIKES-1610Z-N01-D.png?v=636511186881830000" width="470" height="470" alt="PIKES-1610Z-N01-D" id="" />
+        </span>
+    </a>
+    <span class="_name_price">
+      <span class="__p_name">Reloj Analogo Pikes Hombre</span>
+      
+            <span class="_p_pricing">
+
+        <!-- product price -->
+        <span class="_p_priceoffer_">
+          <span class="__p_priceoffer">$89.900,00</span>
+        </span>
+        <!-- product price:end -->
+        
+                <span class="_p_price_">
+          <span class="__p_price">$149.900,00</span>
+        </span>
+                
+      </span>
+          </span>
+    
+    <span class="_p_details">
+            
+      <span class="_colors_custom">
+        <span class="_colors"></span>
+        <span class="_custom">Customize</span>
+      </span>
+
+      <span class="_swatches_plus">
+        <span class="_swatches"></span>
+        <span class="_plus">+ View All</span>
+      </span>
+      
+      <span class="__p_buy_btn">Buy</span>
+      
+          </span>
+
+    <span class="_p_highlight" style="display:none;"></span>
+    
+  </div>
+</div>
+</li></div></div></ul></div></div><div class="_showcase-nav"><div class="_showcase-nav0"></div><div class="_showcase-nav1 _on"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: inline-block;">Previous</button><button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: inline-block;">Next</button></div></div></div><div class="ProductReviews"><!--<h3>We love Totto</h3>--><!--<div class="_ratings">Calificación: <span class="__fractionratings">4.5</span> de <span class="__totalratings">5</span></div>--><!--<vtex.cmc:UserReview/>--><div id="avProductWrapper"><iframe id="avProductiFrame" name="avProductiFrame" src="https://cl.avis-verifies.com/co/cache/d/d/1/dd1d06b4-32da-a034-bdce-d912fc843403/widget4/dd1d06b4-32da-a034-bdce-d912fc843403produit_index.html?lang=es-co&amp;idProduit=[&quot;2003191&quot;]" scrolling="no" allowtransparency="true" style="width: 100%; border: none; overflow: hidden; display: block; font-size: 10px; height: 307px;"></iframe></div></div></section><!-- product suggestions end - showcase + reviews --><!-- product recommendations - banners --><section class="ProductRecommendations"><div class="_recommendationtitle"><h4>Recomendados</h4></div><div class="_bannersbox"></div></section><!-- product recommendations end - banners --></main><!-- floating buy button and floating checkout button --><div class="_float-buy"><div class="_prodInfo"><div class="_prodname"><div class="fn productName  Reloj-Analogo-Otun-Hombre ">Reloj Analogo Otun Hombre</div><input id="___rc-p-id" type="hidden" value="2003191" autocomplete="off" /><input id="___rc-p-dv-id" type="hidden" value="159900" autocomplete="off" /><input id="___rc-p-sku-ids" type="hidden" value="10178,10179" autocomplete="off" /><input id="___rc-p-kit-ids" type="hidden" value="" autocomplete="off" /></div><div class="_prodprice"><div class="plugin-preco"><div class="productPrice"><p class="descricao-preco"><em class="valor-por price-best-price" style="display: block;">  <strong class="skuBestPrice">$ 159.900,00</strong></em><em class="valor-dividido price-installments" style="display: inline;"><span><span>ou <label class="skuBestInstallmentNumber">48<span class="x">x</span></label> de </span><strong><label class="skuBestInstallmentValue">$ 3.332,00</label></strong></span></em></p><p class="preco-a-vista price-cash" style="display: block;">Preço a vista:<strong class="skuPrice">$ 159.900,00</strong></p></div></div><script>$('.plugin-preco').price(2003191);</script></div></div><div class="_prodBuyBtn"><a target="_top" class="buy-button buy-button-ref active added __active" href="/checkout/cart/add?sku=10178&amp;qty=1&amp;seller=1&amp;redirect=true&amp;sc=1" style="display:block">AÃ±adido!</a><script>$('.buy-button-ref').buyButton(2003191, {salesChannel: 1}, {})</script><p class="unavailable-button" style="display:none">Produto Esgotado</p><input type="hidden" class="buy-button-amount" value="1" autocomplete="off" /></div></div><div class="_float-checkout"><div class="_prodInfo"><div class="_prodname"><div class="fn productName  Reloj-Analogo-Otun-Hombre ">Reloj Analogo Otun Hombre</div><input id="___rc-p-id" type="hidden" value="2003191" autocomplete="off" /><input id="___rc-p-dv-id" type="hidden" value="159900" autocomplete="off" /><input id="___rc-p-sku-ids" type="hidden" value="10178,10179" autocomplete="off" /><input id="___rc-p-kit-ids" type="hidden" value="" autocomplete="off" /></div><div class="_prodmsg"><p>¡Agregado!</p></div></div><div class="_prodCheckoutBtn"><a target="_top" class="" href="/checkout/#/cart">Pagar</a></div></div><!-- floating buy button and floating checkout button:end --><!-- PDP Template:end --><footer><section class="BottomLinks"><div class="_contents"><div class="FooterLinksFollowUs"><div class="FooterLinks NoBullets"><ul><li><a href="/legales/entregas-y-devoluciones" class="underscore-slide">Entregas &amp; devoluciones</a></li><li><a href="/legales/promociones-vigentes" class="underscore-slide">Promociones vigentes</a></li><li><a href="https://ventascorporativas.totto.com/" class="underscore-slide">Ventas Corporativas</a></li><!--<li><a href="/canales/compras-whatsapp" class="underscore-slide">Ventas WhatsApp</a></li>--><li><a href="/contactanos" class="underscore-slide">Contáctanos</a></li><li><a href="/black-friday" class="underscore-slide">Black Friday</a></li><li><a href="/cyber-lunes" class="underscore-slide">Cyber Lunes</a></li></ul><ul><li><a href="/compania/historia" class="underscore-slide">Quiénes somos</a></li><li><a href="/talento-totto/trabaja-con-nosotros" class="underscore-slide">Talento Totto</a></li><li><a href="/store-locator" class="underscore-slide">Encuentra tu tienda</a></li><li><a href="/compania/radio" class="underscore-slide">Radio Totto</a></li><li><a href="http://www.tottodilotodo.com/" class="underscore-slide">Blog</a></li><li><a href="http://tottofactory.com/wayuu/" class="underscore-slide">Innovación</a></li><li><a href="/totto-loco" class="underscore-slide">Totto Loco</a></li><!--<li><a href="/company/news" class="underscore-slide">News</a></li>--><!--<li><a href="/company/catalogs" class="underscore-slide">Catalogue</a></li>--><!--<li><a href="/" class="underscore-slide">Site Map</a></li>--></ul></div><div class="FollowUs"><h5>Síguenos</h5><div class="_followus"><a href="https://www.facebook.com/totto.brand/" target="_blank" class="__facebook"></a><a href="https://twitter.com/totto_brand" target="_blank" class="__twitter"></a><a href="https://www.instagram.com/tottobrand/" target="_blank" class="__instagram"></a><a href="https://www.youtube.com/user/TOTTOoficial" target="_blank" class="__youtube"></a><br /><br /><!--<h5>Medios de pago</h5>--><!--  <br/> --><a href="https://www.payulatam.com/co/" target="_blank" class="_mediosdepago"></a><a href="http://www.sic.gov.co/" target="_blank"><img src="/arquivos/sic.png?v=636888896556330000" alt="Super intendencia de industria y comercio" /></a></div></div></div><!-- newsletter --><div class="Newsletter transformNews"><h5>Regístrate</h5><div class="NewsletterForm"><div class="__caption">Sé el primero en recibir noticias de ofertas y promociones especiales.</div><!-- <div class="__caption">Sé el primero en recibir noticias de ofertas y promociones especiales.</div>--><div class="_newsletter _newsletter0"><div class="_newsletterform"><div class="_namebox"><label for="name">Nombre completo</label><input name="name" type="text" value="" autocomplete="off" /></div><div class="_emailbox"><label for="email">E-mail</label><input name="email" type="text" value="" autocomplete="off" /></div><div class="_namebox"><!--<label for="phone">Teléfono</label>--><label for="phone">Número móvil</label><input name="phone" type="text" value="" autocomplete="off" /></div><button class="__submit" autocomplete="off">Suscríbete</button></div><div class="_successful _newsmsg"><p>¡Gracias!, recibirás un mensaje al correo ingresado para que completes tu registro.</p><button class="__back" autocomplete="off">Ingresa nuevo e-mail</button></div><div class="_error _newsmsg"><p>¡Error! Por favor intenta de nuevo</p><button class="__back" autocomplete="off">Inténtalo de nuevo</button></div><div class="_notifications __tomato"><span class="__name-error">Por favor ingrese su nombre completo.</span><span class="__email-error">Por favor digite correctamente el e-mail.</span><span class="__phone-error">Por favor digite correctamente el teléfono.</span></div></div></div></div><!-- newsletter:end --></div><!--_contents--></section><section class="Credits"><div class="_store_info"><span class="__store">© 2018 Totto</span><ul><li class="__policy"><a href="/legales/terminos-y-condiciones" class="underscore-slide">Términos &amp; condiciones</a></li><!--<li class="__terms __leftpipe"><a href="/legales/terminos-y-condiciones" class="underscore-slide">Legales</a></li>--><li class="__terms __leftpipe"><a href="/legales/politica-y-aviso-de-privacidad" class="underscore-slide">Política y aviso de privacidad</a></li></ul></div><div class="_poweredby"><span>Powered by </span><img alt="Powered by Vtex" src="/arquivos/vtex-logo-2017.png?v=636513585126700000" style="max-width:70px; " /></div></section></footer><div class="__overlay"></div><!--callmeback-->
+	<!-- Float Element -->
+	<div id="contbtn-call-me-back">
+	  <div id="btntwo-call-me-back-totto"></div>
+	    <button id="btn-call-me-back-totto" autocomplete="off"></button>
+	</div>
+	<!-- Modal  -->
+	<div id="phone-modal-totto" class="modal-css-estilos-boton-call-me-back">
+	    <div class="contenido-modal-call-me-back-estilos">
+	      <span class="salir-modal-call-me-back">
+	      <p class="boton-salir-modal-call-me-back">x</p>
+	    </span>
+	    <button id="modal-btn-call-me-back" autocomplete="off"></button>
+	    <form id="form-call-me-back" action="javascript:void(0)">
+	      <p id="texto-formulario-call-me-back">
+	    Dejános tu número telefónico y en un momentos nos comunicaremos contigo para ayudarte.</p>
+	      <input class="texto-formulario-telefono-de-contacto" type="text" name="telefono" id="telefono" placeholder="Ejem: 311 2302 899" required="true" autocomplete="off" />
+	      <input class="boton-formulario-envio-de-informacion" type="submit" id="submit" name="Enviar" autocomplete="off" />
+	    </form>
+	  </div>
+	</div><!-- ATENÇÃO, esse erro prejudica a performance do seu site, o conteudo de nome callmeback não foi renderizado por nao ser um XDocument válido, erro: - The 'input' start tag on line 18 position 9 does not match the end tag of 'form'. Line 19, position 8.-->
+  <!--Start of Zendesk Chat Script-->
+  <script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?2NDWKFp0ts0quTLnDThMwqlraH4CRpl3";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+  <!--End of Zendesk Chat Script-->
+</div><!-- Main Wrapper:end --><div class="Search SearchTop"><fieldset><label for="top_search" class="__noselect __labelasplaceholder">Buscar</label><input id="top_search" name="search" class="fulltext-search-box __search_field __search_field0" type="text" autocomplete="off" autocapitalize="off" /></fieldset><div class="_search_results _results0"><div class="__search_msg">Busca por nombre, SKU o palabra clave.<br />Presiona enter para buscar.</div></div></div><div class="Minicart animated __active"><!-- animated slideInRight --><div class="_minicartHead"><a class="__close_cart">X</a><span class="__cartTitle">Carrito</span><a class="__cart"><div class="portal-totalizers-ref"><div class="amount-items-in-cart"><div class="cartInfoWrapper"><span class="title"><span id="MostraTextoXml1">Resumo do Carrinho</span></span><ul class="cart-info"><li class="amount-products"><strong><span id="MostraTextoXml2">Total de Produtos:</span></strong> <em class="amount-products-em">1</em></li><li class="amount-items"><strong><span id="MostraTextoXml3">Itens:</span></strong> <em class="amount-items-em">1</em></li><li class="amount-kits"><strong><span id="MostraTextoXml4">Total de Kits:</span></strong> <em class="amount-kits-em"></em></li><li class="total-cart"><strong><span id="MostraTextoXml5">Valor Total:</span></strong> <em class="total-cart-em">$ 159.900,00</em></li></ul></div></div></div><script>$('.portal-totalizers-ref').minicart({ showMinicart: false, showTotalizers: true, showShippingOptions: false });</script></a></div><div class="_minicartBody cart-empty"><div class="mr-minicart"><div class="mr-prod-list"><div class="mr-prod-item"><a class="mr-link" href="/reloj-analogo-otun-hombre/p"><span class="mr-img"><img src="http://tottoco.vteximg.com.br/arquivos/ids/187722-370-370/OTUN-181-N01_C.png?v=636597389658500000" /></span><span class="mr-prod-name">Reloj Analogo Otun Hombre</span><span class="mr-prod-qty">Cantidad: <small>1</small></span><span class="mr-prod-price">$ 159,900</span></a><a class="mr-rm" onclick="mProdsList.del(0);">X</a></div></div><div class="mr-totals"><div class="mr-total"><span class="mr-lbl">Total:</span><span class="mr-total-val">$159.900</span></div><div class="mr-goto-cart"><a href="/checkout/#/cart">Comprar</a></div></div></div></div></div><script src="/arquivos/slick.js?v=636386570735330000" type="text/javascript"></script><script src="/arquivos/standard2.js?v=150120191" type="text/javascript"></script><script src="/arquivos/callmebacktotto.js?v=636500606571830000" type="text/javascript"></script><script src="/arquivos/scroll-down-bottom-newsletter.js?v=636840535464300000" type="text/javascript"></script><script src="/arquivos/banner_rotativo.js?v=636905209697400000" type="text/javascript"></script>
+  <script src="//cl.avis-verifies.com/co/cache/d/d/1/dd1d06b4-32da-a034-bdce-d912fc843403/widget4/dd1d06b4-32da-a034-bdce-d912fc843403produit_script.js"></script>
+<script src="/arquivos/jquery.selectric.min.js?v=636386570853900000" type="text/javascript"></script><script src="/arquivos/jquery.zoom.js?v=636386570833830000" type="text/javascript"></script><!--<script src="/arquivos/pdproductottov2.js?v=20122018" type="text/javascript"></script>--><script src="/arquivos/pdproductottov2-1.js?v=20190131_1710" type="text/javascript"></script><script src="/arquivos/related-carousel.js?v=636538102204930000" type="text/javascript"></script><!--colores--><script src="/arquivos/colores.js?v=636821281634530000" type="text/javascript"></script><!--colores--><script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/Track.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/thickbox.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/json2.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.viewPart.CallCenterDisclaimer.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.viewPart.ajaxLoader_V2.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/social/vtex-view-part.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.jsevents.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.skuEvents.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.skuEvents.skuDataFetcher.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/intersect.js?v=1.4.1198.1946" type="text/javascript"></script>
+
+<script type="text/javascript" id="">var google_tag_params={ecomm_prodid:"2003191",ecomm_pagetype:"Product",ecomm_totalvalue:"159900"};</script>
+<script type="text/javascript" id="">var google_conversion_id=986711534,google_custom_params=window.google_tag_params,google_remarketing_only=!0;</script>
+<script type="text/javascript" id="" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","389438597925084");fbq("track","PageView");</script>
+<noscript>&lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=389438597925084&amp;amp;ev=PageView&amp;amp;noscript=1"&gt;</noscript>
+
+
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","231574710982234");fbq("track","PageView");</script>
+<noscript>
+ &lt;img height="1" width="1" src="https://www.facebook.com/tr?id=231574710982234&amp;amp;ev=PageView
+&amp;amp;noscript=1"&gt;
+</noscript>
+
+
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:737736,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://co.totto.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://co.totto.com/Sistema/buscavazia?ft={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script><script type="text/javascript" id="">(function(d,a,b,f,e){d[e]=d[e]||[];d[e].push({projectId:"10000",properties:{pixelId:"10057850"}});var c=a.createElement(b);c.src=f;c.async=!0;c.onload=c.onreadystatechange=function(){var a=this.readyState,c=d[e];if(!a||"complete"==a||"loaded"==a)try{var b=YAHOO.ywa.I13N.fireBeacon;d[e]=[];d[e].push=function(a){b([a])};b(c)}catch(g){}};a=a.getElementsByTagName(b)[0];b=a.parentNode;b.insertBefore(c,a)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+<script type="text/javascript" id="">!function(d,e,f,a,b,c){d.twq||(a=d.twq=function(){a.exe?a.exe.apply(a,arguments):a.queue.push(arguments)},a.version="1.1",a.queue=[],b=e.createElement(f),b.async=!0,b.src="//static.ads-twitter.com/uwt.js",c=e.getElementsByTagName(f)[0],c.parentNode.insertBefore(b,c))}(window,document,"script");twq("init","nvctv");twq("track","PageView");</script><script type="text/javascript" id="">fbq("track","ViewContent",{content_type:"Product",content_ids:"2003191",value:google_tag_manager["GTM-PKJD3R9"].macro(5),currency:"USD"});</script><script type="text/javascript" id="" src="//static.criteo.net/js/ld/ld.js"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.viewPart.skuReference.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.viewPart.buyTogether.js?v=1.4.1198.1946" type="text/javascript"></script><script type="application/javascript" id="ywa-1554990594256-597146" class="ywa-10000" defer="" src="https://sp.analytics.yahoo.com/sp.pl?a=10000&amp;jsonp=YAHOO.ywa.I13N.handleJSONResponse&amp;d=Thu%2C%2011%20Apr%202019%2013%3A49%3A54%20GMT&amp;n=5&amp;b=Reloj%20Analogo%20Otun%20Hombre%20-%20tottoco&amp;.yp=10057850&amp;f=https%3A%2F%2Fco.totto.com%2Freloj-analogo-otun-hombre%2Fp&amp;e=https%3A%2F%2Fco.totto.com%2FReloj%2520mujer&amp;enc=UTF-8"></script>
+<noscript>
+&lt;div style="display:inline;"&gt;
+&lt;img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/986711534/?guid=ON&amp;amp;script=0"&gt;
+&lt;/div&gt;
+</noscript>
+
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/vtex.commerce.batchbuy.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/jquery.livequery.min.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/prettyPhoto/js/jquery.prettyPhoto.js?v=1.4.1198.1946" type="text/javascript"></script>
+<script language="javascript" src="https://tottoco.vteximg.com.br/Scripts/prettyPhoto/js/lean-prettyPhoto.js?v=1.4.1198.1946" type="text/javascript"></script>
+
+<div class="__goto-top"><button></button></div><script src="https://analytics.twitter.com/i/adsct?p_id=Twitter&amp;p_user_id=0&amp;txn_id=nvctv&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fco.totto.com%2Freloj-analogo-otun-hombre%2Fp" type="text/javascript"></script>
+<script type="text/javascript" id="">window.criteo_q=window.criteo_q||[];window.criteo_q.push({event:"setAccount",account:google_tag_manager["GTM-PKJD3R9"].macro(6)},{event:"setEmail",email:google_tag_manager["GTM-PKJD3R9"].macro(8)},{event:"setSiteType",type:google_tag_manager["GTM-PKJD3R9"].macro(9)},{event:"viewItem",tms:"gtm-vtex",item:google_tag_manager["GTM-PKJD3R9"].macro(10)});</script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-d743cafc9d1fb7eed204caa92025802f.html" allowtransparency="true" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><div id="ads"></div><div id="criteo-tags-div" style="display: none;"><iframe height="0" width="0" src="//dis.us.criteo.com/dis/dis.aspx?p=12345&amp;cb=52692546295&amp;ref=https%3A%2F%2Fco.totto.com%2FReloj%2520mujer&amp;sc_r=1366x768&amp;sc_d=24" title="Criteo DIS iframe" allowtransparency="true" style="display: none;"></iframe></div><script type="text/javascript" id="">fbq("track","AddToCart");({content_type:"Product",content_ids:"2003191",value:google_tag_manager["GTM-PKJD3R9"].macro(20),currency:"USD"});</script>
+</body></html>
