@@ -23,6 +23,7 @@ import net.serenitybdd.screenplay.actions.Open;
 
 
 public class BuscarEnTottoStepDefinitions {
+	
 	public  static final int FraseActual = 0;
 	TottoPaginaInicio tottoHomePage;
 	

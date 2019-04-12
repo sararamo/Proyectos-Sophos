@@ -32,11 +32,7 @@ public class BusquedaProducto implements Task {
 					);
 				
 	}
-	/*
-	public static BusquedaProducto composedOfTheWords(String nombre, String caracteristica) {
-		return instrumented(BusquedaProducto.class,nombre,caracteristica);
-	}
-	*/
+
 	public static BusquedaProducto composedOfTheWords(TottoModels tottoModels) {
 		return instrumented(BusquedaProducto.class,tottoModels.getPalabra1(),tottoModels.getPalabra2());
 	}
